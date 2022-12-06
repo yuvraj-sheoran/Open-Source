@@ -6,7 +6,7 @@
 
 1. **Hello World**
 
-2. **Value of Pi**
+2. **Print Value of Pi**
 
 3. **Addition of two numbers**
 
